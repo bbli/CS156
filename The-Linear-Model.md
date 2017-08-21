@@ -13,3 +13,5 @@
 * In this way, we can see why classification is not a special case of regression, despite the fact that 1 and 0 are real numbers! 
 	* Regression only produces one plane
 ![reg-class](regression-classification.jpeg)
+
+* **Why there is no Explicit Formula for Classification**: The range of y values is not a rich enough mathematical object to permit an explicit method(namely differentiation of a manifold)
