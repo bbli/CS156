@@ -18,3 +18,5 @@
 ## Explicit Formula for Regression
 
 ![lin reg](linear-regression.PNG)
+
+* **Why there is no Explicit Formula for Classification**: The range of y values is not a rich enough mathematical object to permit an explicit method(namely differentiation of a manifold)
