@@ -1,7 +1,8 @@
 # The Linear Model
 ================
 
-## PLA
+## Extra Parameter in PLA
+* The reason we need the extra parameter is because we don't don't a priori whether the data is good on top or on the bottom
 
 * The extra parameter is needed so the adjustment makes sense. Without it, we cannot phrase the problem in terms of a inner product, and thus lose the geometric insight.
 ![geo intuition](geo-picture.jpeg)
