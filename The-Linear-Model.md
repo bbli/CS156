@@ -1,7 +1,8 @@
 # The Linear Model
 ================
 
-## PLA
+## Extra Parameter in PLA
+* The reason we need the extra parameter is because we don't don't a priori whether the data is good on top or on the bottom
 
 ## How Linear Regression differs from Classification
 * Although we can think of Classification as drawing a line in between the data set, an alternative visualization would be to view the output as the stitching of two planes. 
