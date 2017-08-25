@@ -3,6 +3,9 @@
 
 ## PLA
 
+* The extra parameter is needed so the adjustment makes sense. Without it, we cannot phrase the problem in terms of a inner product, and thus lose the geometric insight.
+![geo intuition](geo-picture.jpeg)
+
 ## How Linear Regression differs from Classification
 * Although we can think of Classification as drawing a line in between the data set, an alternative visualization would be to view the output as the stitching of two planes. 
 * In this way, we can see why classification is not a special case of regression, despite the fact that 1 and 0 are real numbers! 
