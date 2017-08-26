@@ -2,3 +2,4 @@
 [The Linear Model](The-Linear-Model.md)
 [Error and Noise](Error-and-Noise.md)
 [List of Mistakes](List-of-Mistakes.md)
+[Misc](Misc.md)
