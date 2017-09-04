@@ -3,5 +3,6 @@
 [Error and Noise](Error-and-Noise.md)
 [Improving the Union Bound](Improving-the-Union-Bound.md)
 [Theory of Generalization](Theory-of-Generalization.md)
+[The VC Dimension](The-VC-Dimension.md)
 [List of Mistakes](List-of-Mistakes.md)
 [Misc](Misc.md)
