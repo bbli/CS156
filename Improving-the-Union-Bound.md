@@ -13,6 +13,10 @@ $$M\rightarrow 2^{N}$$
 #### Growth Function
 > Why is the breakpoint of triangular sets not 4? You can put a point in the middle of three to "force" the "covering"
 
+> Because we are free to pull that point out. 
+
+* **Calculating the growth function**: Given a "optimal" n points of your "choosing", vary the hypotheses to create as many "colorings" as possible. 
+
 ![growth](growth-function.PNG)
 $$2^{N}\rightarrow m_{H}(N)$$
 
