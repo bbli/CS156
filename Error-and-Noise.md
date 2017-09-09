@@ -5,11 +5,6 @@
 ---
 ![error](def-of-error.PNG)
 
-## Linear Model as a Basis
----
-* Bunch of Linear Models=Neural Network
-* Efficient Nonlinear Transformation= Kernel Methods
-* Careful Selection of Boundaru = Support Vector Machine
 
 ## Learning Diagram for Nosy Targets
 ---

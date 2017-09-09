@@ -4,5 +4,9 @@
 [Improving the Union Bound](Improving-the-Union-Bound.md)
 [Theory of Generalization](Theory-of-Generalization.md)
 [The VC Dimension](The-VC-Dimension.md)
+[Bias and Variance](Bias-and-Variance.md)
 [List of Mistakes](List-of-Mistakes.md)
 [Misc](Misc.md)
+
+
+The advantage of using Git is that with the Magit plugin installed in vim, I could review and revise my notes until I thought my understanding of ther material was solid enough to "commit". Furthermore, I can review in "uncommited" notes in chunks, which provides a way or organizing my uncertainty of the subject at hand.

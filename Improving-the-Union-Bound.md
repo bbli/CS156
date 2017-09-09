@@ -16,6 +16,7 @@ $$M\rightarrow 2^{N}$$
 > Because we are free to pull that point out. 
 
 * **Calculating the growth function**: Given a "optimal" n points of your "choosing", vary the hypotheses to create as many "colorings" as possible. 
+	* In the 1-D case, it is sufficent to just vary either the hypotheses or the points.
 
 ![growth](growth-function.PNG)
 $$2^{N}\rightarrow m_{H}(N)$$
