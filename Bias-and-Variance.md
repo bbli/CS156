@@ -29,3 +29,6 @@
 	* Generalization will go down for same reason as variance.
 
 ![learning curves](learning-curves.PNG)
+> Why doesn't the average hypothesis error changes as we change the datapoints?
+
+> Because we have to average over all datasets beforehand. This is the only way to incorporate the variance into the graph.
