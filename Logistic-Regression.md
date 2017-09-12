@@ -1,0 +1,30 @@
+# Logistic Regression
+===================
+
+
+
+
+## The output function
+* Logistic regression takes the linear form and further acts upon it with a function
+
+![log reg](log-reg.PNG)
+
+
+
+## Likelihood as the Error Measure
+* To construct a likelihood, we consider the **converse** of the goal:
+	* Given a hypothesis, how likely is it to have generated the dataset that we currently have?
+
+![likelihood](likelihood.PNG)
+
+## Massaging into Cross Entropy
+1. Take natural logarithm to convert product to sum
+* Put negative sign out front to change max of likelihood to min of error.
+
+> Note that when y and x don't agree, the error contribution is large. 
+> Also note that the inside looks like a partition function of some sort.
+
+## Variable step size Gradient Descent
+
+![learning rate](learning-rate.PNG)
+

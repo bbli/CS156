@@ -5,6 +5,7 @@
 [Theory of Generalization](Theory-of-Generalization.md)
 [The VC Dimension](The-VC-Dimension.md)
 [Bias and Variance](Bias-and-Variance.md)
+[Logistic Regression](Logistic-Regression.md)
 [List of Mistakes](List-of-Mistakes.md)
 [Misc](Misc.md)
 
