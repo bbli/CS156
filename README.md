@@ -6,6 +6,7 @@
 [The VC Dimension](The-VC-Dimension.md)
 [Bias and Variance](Bias-and-Variance.md)
 [Logistic Regression](Logistic-Regression.md)
+[Neural Networks](Neural-Networks.md)
 [List of Mistakes](List-of-Mistakes.md)
 [Misc](Misc.md)
 

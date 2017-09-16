@@ -4,8 +4,9 @@
 
 
 
-## The output function
-* Logistic regression takes the linear form and further acts upon it with a function
+## How it transforms s
+* Logistic regression takes the linear form and further acts upon it with a function. This function can be interpreted as a probability.
+* One can say logisitc regression takes binary results and returns a binary probability.
 
 ![log reg](log-reg.PNG)
 

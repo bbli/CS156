@@ -7,3 +7,6 @@
 ![puzzle](puzzle.PNG)
 
 * The probability for Hoeffding's Inequality comes from the distribution of $E_{in}$, aka the data set. It is only by drawing multiple data sets do we get a distribution for $E_{in}$  
+
+* We don't need to normalize the probability results from the Logisitc regression b/c the outcome space is not parameterized by the s parameter.
+* You can train many models of the same form at the same time by simply summing their error functions. (See Slide 7 of Neural Networks)
