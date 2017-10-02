@@ -26,10 +26,12 @@
 * Calculating the analytic error function is hard
 * We don't want to numerically calculate the gradient after every step.
 * **Algorithm**:
-	1. Use Chain Rule to express in terms of $s^l_{j}$
+	1. Express in terms of $s^l_{j}$
 	* Calculate $\delta$ for last layer
 	* Backpropagate delta
 
 ![e weight](e-weight.jpeg)
 
 ![backprop](backpropagation.jpeg)
+
+![back-formula](back-formula.PNG)

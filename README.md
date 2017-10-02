@@ -7,7 +7,11 @@
 [Bias and Variance](Bias-and-Variance.md)
 [Logistic Regression](Logistic-Regression.md)
 [Neural Networks](Neural-Networks.md)
+[Overfitting](Overfitting.md)
+[Validation](Validation.md)
+[Support Vector Machine](Support-Vector-Machine.md)
 [List of Mistakes](List-of-Mistakes.md)
+[List of Mental Models](List-of-Mental-Models.md)
 [Misc](Misc.md)
 
 

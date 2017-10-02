@@ -2,8 +2,8 @@
 ================
 > VC Dimension: The most number of point that H can shatter
 
-## Interpretation of the VC Dimension
-* It abstracts the expressiveness of a model:
+## VC Dimension Mental Model
+* It abstracts the expressiveness of a hypothesis set
 	* higher VC dimension=more parameters(exact for percepton)
 	* higher VC dimension=more robust to nonlinear seperable data(b/c it measures max number of "colorings")
 

@@ -8,7 +8,7 @@
 * Logistic regression takes the linear form and further acts upon it with a function. This function can be interpreted as a probability.
 * One can say logisitc regression takes binary results and returns a binary probability.
 
-![log reg](log-reg.PNG)
+![log reg](log-reg.jpeg)
 
 > Why is Logistic Regression consider a linear model?
 

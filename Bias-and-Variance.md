@@ -8,7 +8,7 @@
 
 ![bias variance](bias-variance.PNG)
 
-## Viewpoints
+## Bias-Variance Mental Model
 * **Bias/Variance**
 	* Complex models have **potentially a closer solution** bc of **average**
 	* But more **sensitive to bad/little data**(outliers) bc of high **variance**, and so make it harder to generalize out of sample.
