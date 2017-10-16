@@ -10,3 +10,7 @@
 
 * We don't need to normalize the probability results from the Logisitc regression b/c the outcome space is not parameterized by the s parameter.
 * You can train many models of the same form at the same time by simply summing their error functions. (See Slide 7 of Neural Networks)
+## Stochastic Gradient Descent
+* Used when function is a sum of functions(which for us, means a sum of datapoints)
+* Randomness is good for avoiding shallow wells
+![sgd](sgd.PNG)

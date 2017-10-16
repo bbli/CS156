@@ -1,10 +1,6 @@
 # Neural Networks
 ===============
 
-## Stochastic Gradient Descent
-* Used when function is a sum of functions(which for us, means a sum of datapoints)
-* Randomness is good for avoiding shallow wells
-![sgd](sgd.PNG)
 
 ## Logic Gates with Perceptons
 > We can create complicated models by feeding the binary outputs of perceptons into more perceptons, and change the weights to get the operaton we want.
@@ -20,18 +16,17 @@
 * More than just 3 inputs into each node
 
 ![neural net](neural-net.jpeg)
+![black box](neural-black-box.jpeg)
 
 
 ## Compiling the gradient: Backpropagation Algorithm. 
-* Calculating the analytic error function is hard
-* We don't want to numerically calculate the gradient after every step.
+* Calculating the analytic error function is hard, so idea is to reexpress gradient **in terms of a higher level feature**.
 * **Algorithm**:
 	1. Express in terms of $s^l_{j}$
+        * Forward calculate x's
 	* Calculate $\delta$ for last layer
 	* Backpropagate delta
 
-![e weight](e-weight.jpeg)
-
-![backprop](backpropagation.jpeg)
+![backprop](backprop.jpeg)
 
 ![back-formula](back-formula.PNG)
