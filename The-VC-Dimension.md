@@ -1,6 +1,8 @@
 # The VC Dimension
 ================
 > VC Dimension: The most number of point that H can shatter
+## How to Prove VC Dimension
+![prove vc](prove-vc.jpeg)
 
 ## VC Dimension Mental Model
 * It abstracts the expressiveness of a hypothesis set

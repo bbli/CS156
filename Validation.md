@@ -3,7 +3,7 @@
 
 ## Validation as Error Estimate and its Tradeoff
 * $E_{out}(g^-)$ as Good Estimator for $E_{out}(g)$
-* $E_{val}(g^-)$ as Good Estimate of Estimator
+* $E_{val}(g^-)$ as Good Estimate of Estimator $E_{out}(g^-)$
 
 ![testing tradeoff](testing-tradeoff.jpeg)
 
