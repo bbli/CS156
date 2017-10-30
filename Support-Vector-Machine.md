@@ -10,25 +10,18 @@
 ![calc margin](calc-margin.jpeg)
 
 ## Minimizing the margin
+* We got rather far by assuming we know the minimum point. To convert into a usuable form, we need a statement on all the points, since we don't know which one will be the minimum ad priori. 
 * Notice that minimizing the margin is "lowering the VC dimension", as was the case in weight decay regularization.
-* In general, **Constraints lower VC dimension**
 
 ![min margin](min-margin.jpeg)
+
 
 ## Nonlinear Transformations with SVM
 > Why don't we need to pay the cost of nonlinear transformations for SVM?
 
-* The VC dimension of SVM is more closely related to **the number of support vectors rather than the dimensionality of the space.**
-* **So, the cost of nonlinear transformations** is not as drastic
+* The VC dimension of SVM is more closely related to **the number of support vectors rather than the dimensionality of the space.** 
+* This is because **Constraints lower VC dimension**
+* So, the cost of nonlinear transformations is not as drastic
 
 ![SVM dimension](SVM-dimension.jpeg)
 
-## Kernel Formulation of SVM
-In general, we applying a nonlinear transformation, two things change: the final hypothesis and the error function, because these are the objects that depend on the dataset.
-* **Hypothesis**
-
-![SVM hypothesis](kernel-SVM-hypothesis.PNG)
-
-* **Lagrangian(aka Error function)**
-
-![SVM lagrangian](kernel-SVM-Lagrangian.PNG)
