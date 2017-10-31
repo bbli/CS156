@@ -3,6 +3,7 @@
 
 * **Why it works**: We can afford to shift the line because probability of training point being on boundary is low. 
 * Note that the V.C Dimension of the SVM is **dependent** on the dataset, because the constraints are dependent on the dataset.
+* Also note that while the SVM is a classifier, to find the final weight vector we will be using calculus. This is because we are doing calculus on a distance cost function, not error cost function.
 
 ## Calculating the margin
 * This normalization gives a nice formula 

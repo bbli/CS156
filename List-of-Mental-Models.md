@@ -13,6 +13,7 @@
 
 
 ## Key Facts
+* Proving VC Dimension
 * VC Dimension
 * Overfitting 
 * Regularization 
