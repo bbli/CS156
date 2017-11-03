@@ -10,6 +10,7 @@
 * Validation Protocol mental model
 * Cross Validation mental model
 * Calculating margin mental model
+* support vector soft margin mental model
 
 
 ## Key Facts
@@ -18,3 +19,4 @@
 * Overfitting 
 * Regularization 
 * Minimizing margin
+* SVM soft margins Key techniques

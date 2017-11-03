@@ -6,7 +6,7 @@
 * Also note that while the SVM is a classifier, to find the final weight vector we will be using calculus. This is because we are doing calculus on a distance cost function, not error cost function.
 
 ## Calculating the margin
-* This normalization gives a nice formula 
+* This normalization gives a nice formula. Note that it only constrains w to a hypercone. 
 
 ![calc margin](calc-margin.jpeg)
 
