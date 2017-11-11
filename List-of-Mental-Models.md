@@ -11,12 +11,12 @@
 * Cross Validation mental model
 * Calculating margin mental model
 * support vector soft margin mental model
+* slack> regression
 
 
 ## Key Facts
-* Proving VC Dimension
 * VC Dimension
 * Overfitting 
 * Regularization 
 * Minimizing margin
-* SVM soft margins Key techniques
+* SVM Equality to Inequality

@@ -1,5 +1,6 @@
 # Support Vector Machine
 ======================
+> It is somewhat amazing that we have managed to change the linear classifier into a calculus problem. This shows the power of working in a mathematical world(in particular one with a notion of distance), rather than a physical one.
 
 * **Why it works**: We can afford to shift the line because probability of training point being on boundary is low. 
 * Note that the V.C Dimension of the SVM is **dependent** on the dataset, because the constraints are dependent on the dataset.
@@ -18,9 +19,8 @@
 
 
 ## Nonlinear Transformations with SVM
-> Why don't we need to pay the cost of nonlinear transformations for SVM?
 
-* The VC dimension of SVM is more closely related to **the number of support vectors rather than the dimensionality of the space.** 
+* The complexity of SVM is more closely related to **the number of support vectors rather than the dimensionality of the space.** 
 * This is because **Constraints lower VC dimension**
 * So, the cost of nonlinear transformations is not as drastic
 
