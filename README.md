@@ -14,13 +14,17 @@
 [Overfitting](Overfitting.md)  
 [Validation](Validation.md)  
 [Support Vector Machine](Support-Vector-Machine.md)  
-[Kernel Methods](Kernel-Methods.md)
+[Kernel Methods](Kernel-Methods.md)  
+
+## General
+[Practical Considerations](Practical-Considerations.md)
 [List of Mistakes](List-of-Mistakes.md)  
 [List of Mental Models](List-of-Mental-Models.md)  
 [Misc](Misc.md)
 
-## General
-[Practical Considerations](Practical-Considerations.md)
+## LazyProgrammer
+[Intro to Deep Learning](Intro-to-Deep-Learning.md)
+
 
 The advantage of using Git is that with the Magit plugin installed in vim, I could review and revise my notes until I thought my understanding of ther material was solid enough to "commit". Furthermore, I can review in "uncommited" notes in chunks, which provides a way or organizing my uncertainty of the subject at hand.
 
