@@ -1,10 +1,14 @@
 # Kernel Methods
 ==============
 
-## 3 Main Ideas
+## Main Ideas
+* Representation of weight vetor
 * Why Slack is Better than Regression
+    * Because there is **discreteness** in slack: it doesn't punish everything, just the **misclassifications**
 * Formulation of Soft Margin SVM
-* Equality on one -> Inequality on All
+    * 
+* Normalization Generalization
+    * **lazy conditon**: we don't know the normalization we solve the problem
 
 > Q: Why is slack better than regression for classification? After all, it also involves the use of calculus
 > A: Because there is **discreteness** in slack: it doesn't punish everything, just the **misclassifications**

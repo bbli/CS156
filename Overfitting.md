@@ -11,6 +11,10 @@
 ![overfit](overfitting-factors.PNG)
 
 ## Regularizer Key Point
+* Regularization reduces variance at expense of increasing bias a bit
+* reduces complexity
+* smaller weights means "wider" functions (5x^2 vs 0.01x^2) -> Punishes noise
+* weight decay = (1-2*lambda*learning rate/number_of_datapoints)
 
 ![regularizer](regularizer.jpeg)
 

@@ -14,5 +14,7 @@
 
 ## Cross Validation and Validation for Model Choosing
 * Note that this procedure will cause optimistic bias in the error, due to the error being a "weird" function of many random variables.
+* Cross Validation allows you to not have a test set!
+
 
 ![full protocol](full-protocol.jpeg)
